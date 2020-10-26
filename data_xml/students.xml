@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://www.example.com/students"
+          xsi:schemaLocation="http://www.example.com/students students.xsd">
+    <student login="MitarAlex7" faculty="mmf" >
+        <name>Mitar Alex</name>
+        <telephone>2323551</telephone>
+        <address>
+            <country>Belarus</country>
+            <city>Minsk</city>
+            <street>Kalinouskaha</street>
+        </address>
+    </student>
+
+    <student faculty="csan" login="Pashkin5" >
+        <name>Pashkin Jan</name>
+        <telephone>3453789</telephone>
+        <address>
+            <country>Belarus</country>
+            <city>Polotsk</city>
+            <street>Bahdanovicha</street>
+        </address>
+    </student>
+</students>

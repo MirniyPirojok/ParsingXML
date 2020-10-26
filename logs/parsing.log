@@ -1,0 +1,82 @@
+2020-10-24 15:23:21.858 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - Parsing started.
+2020-10-24 15:23:21.873 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - students  xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance xmlns=http://www.example.com/students xsi:schemaLocation=http://www.example.com/students students.xsd
+2020-10-24 15:23:21.873 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+    
+2020-10-24 15:23:21.873 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - student  login=MitarAlex7 faculty=mmf
+2020-10-24 15:23:21.878 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+        
+2020-10-24 15:23:21.878 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - name 
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - Mitar Alex
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  name
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+        
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - telephone 
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 2323551
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  telephone
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+        
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - address 
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+            
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - county 
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - Belarus
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  county
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+            
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - city 
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - Minsk
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  city
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+            
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - street 
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - Kalinouskaha
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  street
+2020-10-24 15:23:21.882 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+        
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  address
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+    
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  student
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+
+    
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - student  login=Pashkin5 faculty=csan
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+        
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - name 
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - Pashkin Jan
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  name
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+        
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - telephone 
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 3453789
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  telephone
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+        
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - address 
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+            
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - county 
+2020-10-24 15:23:21.887 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - Belarus
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  county
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+            
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - city 
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - Polotsk
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  city
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+            
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - street 
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - Bahdanovicha
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  street
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+        
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  address
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+    
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  student
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler -  students
+2020-10-24 15:23:21.892 [main] [DEBUG] epam.learn.xml.handler.ConsoleStudentHandler - 
+Parsing ended.
