@@ -33,7 +33,8 @@ public class BaseValidatorMain {
             //document check
             validator.setErrorHandler(new StudentErrorHandler());
             validator.validate(source);
-            logger.info(String.format("%s is valid", fileName));
+            logger.info(String.format("%s is valid.", fileName));
+            System.out.println(fileName + " is valid.");
         } catch (SAXException | IOException e) {
             logger.error(String.format("%s is not correct or valid", fileName));
         }

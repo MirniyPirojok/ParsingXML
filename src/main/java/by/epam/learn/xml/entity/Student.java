@@ -8,6 +8,7 @@ public class Student {
     private Address address = new Address();
 
     public Student() {
+        this.faculty = "mmf";
     }
 
     public Student(String login, String name, String faculty, int telephone, Address address) {

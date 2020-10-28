@@ -55,6 +55,7 @@ public class StudentsStreamStaxBuilder extends AbstractStudentsBuilder {
         if (faculty != null) {
             student.setFaculty(faculty);
         }
+
         String name;
         while (reader.hasNext()) {
             int type = reader.next();

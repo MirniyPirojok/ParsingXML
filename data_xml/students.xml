@@ -2,7 +2,7 @@
 <students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xmlns="http://www.example.com/students"
           xsi:schemaLocation="http://www.example.com/students students.xsd">
-    <student login="MitarAlex7" faculty="mmf" >
+    <student login="MitarAlex7">
         <name>Mitar Alex</name>
         <telephone>2323551</telephone>
         <address>
